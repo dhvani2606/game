@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">game</string>
+    <string name="up">up</string>
+    <string name="DOWN">Button</string>
+    <string name="dice">dice</string>
+    <string name="computer">Computer</string>
+    <string name="user">User</string>
+    <string name="down">DOWN</string>
+</resources>
